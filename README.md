@@ -123,9 +123,6 @@ The project consists of the following MATLAB functions:
 ### Shortest Path
 ![Shortest Path](Shortest_Path.png)
 
-### Shortest Path Simulation
-![Shortest Path Simulation](Shortest_Path_Simulation.gif)
-
 ## Weighted Terrain Demo
 To see Dijkstra handle non-uniform terrain costs (its unique advantage over BFS), open `start_simulation.m` and uncomment the weighted terrain block:
 
